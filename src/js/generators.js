@@ -6,9 +6,9 @@
  * @returns Character type children (ex. Magician, Bowman, etc)
  */
 export function* characterGenerator(allowedTypes, maxLevel) {
-  // TODO: write logic here
+    // TODO: write logic here
 }
 
 export function generateTeam(allowedTypes, maxLevel, characterCount) {
-  // TODO: write logic here
+    // TODO: write logic here
 }
