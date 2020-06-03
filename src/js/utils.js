@@ -1,3 +1,8 @@
+/**
+ * Determines which border to draw on the field
+ * @param  {number} index - specific cell index
+ * @param  {number} boardSize - side length of square field
+ */
 export function calcTileType(index, boardSize) {
     const topLeft = 0;
     const topRight = boardSize - 1;
