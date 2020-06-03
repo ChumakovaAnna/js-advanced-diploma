@@ -24,10 +24,6 @@
     "quotes": [
       "error",
       "double"
-    ],
-    "indent": [
-      "error",
-      4
     ]
   }
 }
